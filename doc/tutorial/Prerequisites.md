@@ -1,4 +1,3 @@
-
 ##### Prev:  [Tutorial Index](/tutorial.html)
 
 In this section we will see what is needed in order to use this framework.
@@ -15,7 +14,7 @@ We stress here that the framework assumes you are going (and willing) to use a l
 
 It is opinion of the author that working on a shared instance is against good development practices, so the framework is assuming that you may not want to do this, but instead you prefer to work in your local machine and share changes with other through a version control system.
 
-If your habit is developing directly on the server, on a shared development instance, using Sites Explorer and you want to keep working that way, then AgileSites is probably not fit for your way of working. 
+If your habit is developing directly on the server, on a shared development instance, using Sites Explorer and you want to keep working that way, then AgileSites probably does not fit for your way of working. 
 
 ## Install JumpStart Kit
 
